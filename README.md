@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php and mysql as well as some python libraries**
 
-- 📝 I regularly write articles on [https://itstime2play.com/](https://itstime2play.com/)
+- 📝 I regularly write articles on [ItsTime2Play](https://itstime2play.com/)
 
 - ⚡ Fun fact **I love cats :3**
 
